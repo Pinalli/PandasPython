@@ -1,3 +1,6 @@
+
+/*https://medium.com/data-hackers/escrita-e-leitura-de-arquivos-csv-em-python-6a256c608818
+
 /*
 CREATE TABLE clientes (
         id serial PRIMARY KEY,
